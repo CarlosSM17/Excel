@@ -1,4 +1,4 @@
-# Excel con La Taza · versión 3
+
 
 Curso de Excel de básico a avanzado en **6 sesiones de 3 horas (18 h)**, con retos interactivos, **75 tareas de aprendizaje verificables** y **4 proyectos completos**. Es un sitio web estático: no necesita servidor ni base de datos, y todo (el simulador, la revisión de archivos, el progreso y el área docente) corre en el navegador.
 
